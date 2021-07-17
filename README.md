@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-<a href="https://app.daily.dev/excalibur995"><img src="https://api.daily.dev/devcards/c603d9b88a194d70b10c6f5b3a9da002.png?r=gjk" width="400" alt="Raihan Al Bazzy's Dev Card"/></a>
-
 <!--
 **excalibur995/excalibur995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/excalibur995"><img src="https://api.daily.dev/devcards/c603d9b88a194d70b10c6f5b3a9da002.png?r=qis" width="400" alt="Raihan Al Bazzy's Dev Card"/></a>
